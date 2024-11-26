@@ -13,6 +13,9 @@
 - 📦 Chore (Release)
 - ⏩ Revert
 
+## Branch and Pull Request naming convention
+Ensure your branch name and pull request title start with Jira ticket number: `SNP-1234 <whatever else>`.
+
 ## Describe your changes
 
 ## Jira Link
